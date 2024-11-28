@@ -12,7 +12,7 @@
   },
   "devDependencies": {
     "@sveltejs/adapter-netlify": "1.0.0-next.75",
-    "@sveltejs/kit": "^1.0.0-next.455",
+    "@sveltejs/kit": "^1.15.2",
     "@typescript-eslint/eslint-plugin": "^5.36.1",
     "@typescript-eslint/parser": "^5.36.1",
     "autoprefixer": "^10.4.8",
